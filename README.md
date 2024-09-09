@@ -3,7 +3,7 @@
 
 
 <h3>About Me</h3>
-  - 💬 Skilled in Python, SQL, Advanced Excel and Tableau, I specialize in data analysis, visualization, and dashboard creation.<br>
+  - 💬 Skilled in Python, SQL, Advanced Excel and Power BI, I specialize in data analysis, visualization, and dashboard creation.<br>
   - 🧐 I'm enthusiastic about problem-solving, and my expertise extends to Python, machine learning, and more.
   
 <h3>What You'll Find Here</h3>
