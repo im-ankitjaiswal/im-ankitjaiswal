@@ -20,8 +20,7 @@
 <li>💼 Experience: Discover my professional journey in roles like Senior Counsellor at LCI International Group.</li>
 </ul>
 
-
-- 💬 Ask me about **Data Analyst**
+<h3>Get in Touch: </h3>
 - 📫 How to reach me **ankitandjaiswal.296@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,6 +30,7 @@
 <a href="https://www.youtube.com/c/@ankit_jaiswal2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ankit_jaiswal2911" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/im-ankitjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im-ankitjaiswal" height="30" width="40" /></a>
 </p>
+<br>
 Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 🚀
 
 
