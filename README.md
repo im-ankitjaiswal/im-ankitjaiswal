@@ -14,7 +14,7 @@
               <li><a href="#" target="blank">Spam Email Filter:</a> Built an email filter to classify spam and non-spam emails.</li>
              <li><a href="#" target="blank">Credit Card Fraud Prevention:</a> Employed advanced data analytics techniques for real-time fraud detection.</li>
               <li><a href="#" target="blank">Excel EdTech Dashboard:</a> Streamlined student application processes with custom Excel solutions.</li>
-              <li><a href="https://app.powerbi.com/view?r=eyJrIjoiZjI4MjA1OTAtM2U1MS00OGYzLWIzZWQtNDYwMjI1OTU4ZmE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="blank">Car Dealer Sales Dashboard:</a> Created interactive Power BI dashboards for a global Car Dealership company.</li>
+              <li><a href="https://app.powerbi.com/view?r=eyJrIjoiZjI4MjA1OTAtM2U1MS00OGYzLWIzZWQtNDYwMjI1OTU4ZmE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Car Dealer Sales Dashboard:</a> Created interactive Power BI dashboards for a global Car Dealership company.</li>
               </ul>
 <li>📜 Certifications: See my certifications, including Advanced Excel and Tableau.</li>
 <li>💼 Experience: Discover my professional journey in roles like Senior Counsellor at LCI International Group.</li>
