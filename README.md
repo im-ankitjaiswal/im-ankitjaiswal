@@ -10,10 +10,10 @@
 <ul>
   <li>📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:</li>
               <ul>
-              <li><a href="#" target="blank">Loan Status Prediction:</a> Developed a model to predict loan approval status.</li>
-              <li><a href="#" target="blank">Spam Email Filter:</a> Built an email filter to classify spam and non-spam emails.</li>
-             <li><a href="#" target="blank">Credit Card Fraud Prevention:</a> Employed advanced data analytics techniques for real-time fraud detection.</li>
-              <li><a href="#" target="blank">Excel EdTech Dashboard:</a> Streamlined student application processes with custom Excel solutions.</li>
+              <li><a href="https://github.com/im-ankitjaiswal/Monday-Coffee-Expansion-Project" target="blank">Monday Coffee Expansion Project:</a> SQL Data Analysis Project on Monday Coffee Shop.</li>
+              <li><a href="https://github.com/im-ankitjaiswal/Walmart-Sales-Data-Analysis" target="blank">Walmart Sales Data Analysis:</a> SQL Project on Sales Analysis of Walmart Retail Chain .</li>
+             <li><a href="https://app.powerbi.com/view?r=eyJrIjoiYzY4NWEwZTAtMTQ5ZC00MGNmLTg2M2MtNjc5NjM0YzIzYTI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="blank">Sales Insight :</a> Power Bi Project on Store Sales and Forecating Analysis.</li>
+              <li><a href="https://app.powerbi.com/view?r=eyJrIjoiNWQxMWNkZWItM2Q3NS00N2MwLThlZGYtMWFlYzNhZmUxZTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="blank">Hr Analytics:</a> Data Analysis of Company their attrition Rate with various Measures.</li>
               <li><a href="https://app.powerbi.com/view?r=eyJrIjoiZjI4MjA1OTAtM2U1MS00OGYzLWIzZWQtNDYwMjI1OTU4ZmE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Car Dealer Sales Dashboard:</a> Created interactive Power BI dashboards for a global Car Dealership company.</li>
               </ul>
 <li>📜 Certifications: See my certifications, including Advanced Excel and Tableau.</li>
