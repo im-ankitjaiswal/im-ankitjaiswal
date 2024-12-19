@@ -16,8 +16,7 @@
               <li><a href="https://app.powerbi.com/view?r=eyJrIjoiNWQxMWNkZWItM2Q3NS00N2MwLThlZGYtMWFlYzNhZmUxZTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="blank">Hr Analytics:</a> Data Analysis of Company attrition Rate with various Measures.</li>
               <li><a href="https://app.powerbi.com/view?r=eyJrIjoiZjI4MjA1OTAtM2U1MS00OGYzLWIzZWQtNDYwMjI1OTU4ZmE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Car Dealer Sales Dashboard:</a> Created interactive Power BI dashboards for a global Car Dealership company.</li>
               </ul>
-<li>📜 Certifications: See my certifications, including Advanced Excel and Tableau.</li>
-<li>💼 Experience: Discover my professional journey in roles like Senior Counsellor at LCI International Group.</li>
+<li>📜 Certifications: See my certifications, including Advanced Excel and Power BI.</li>
 </ul>
 
 <h3>Get in Touch: </h3>
